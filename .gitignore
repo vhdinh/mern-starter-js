@@ -1,0 +1,6 @@
+/.idea
+
+# Backend
+/backend/.env
+/backend/node_modules
+/backend/.gitignore
